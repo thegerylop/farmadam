@@ -70,11 +70,11 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(236, 29);
+            this.label3.Location = new System.Drawing.Point(225, 27);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(188, 46);
+            this.label3.Size = new System.Drawing.Size(210, 46);
             this.label3.TabIndex = 3;
-            this.label3.Text = "farmDAM";
+            this.label3.Text = "farmaDAM";
             // 
             // AcercaDe
             // 
