@@ -17,10 +17,10 @@ namespace Login
             InitializeComponent();
         }
 
-        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form frm = new farmaDAM.AcercaDe();
+            Form frm = new PaginaPrincipal.PaginaPrincipal();
             frm.Show();
         }
     }
