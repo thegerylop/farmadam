@@ -53,7 +53,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(202, 20);
             this.textBox1.TabIndex = 5;
-            this.textBox1.Text = "Usuario";
+            this.textBox1.Text = "pene";
             // 
             // textBox2
             // 
