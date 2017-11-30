@@ -105,7 +105,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(96, 38);
             this.button1.TabIndex = 13;
-            this.button1.Text = "Laboratoris farmaceutics";
+            this.button1.Text = "Laboratoris farmaceutiscs";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // button2
