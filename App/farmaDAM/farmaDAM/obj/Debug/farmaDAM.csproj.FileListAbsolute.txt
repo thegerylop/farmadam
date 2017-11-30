@@ -8,3 +8,13 @@ C:\Users\admin\AppData\Local\Temporary Projects\farmaDAM\obj\Debug\farmaDAM.cspr
 C:\Users\admin\AppData\Local\Temporary Projects\farmaDAM\obj\Debug\farmaDAM.exe
 C:\Users\admin\AppData\Local\Temporary Projects\farmaDAM\obj\Debug\farmaDAM.pdb
 C:\Users\admin\AppData\Local\Temporary Projects\farmaDAM\obj\Debug\farmaDAM.AcercaDe.resources
+C:\Users\admin\Desktop\farmadam\App\farmaDAM\farmaDAM\bin\Debug\farmaDAM.exe.config
+C:\Users\admin\Desktop\farmadam\App\farmaDAM\farmaDAM\bin\Debug\farmaDAM.exe
+C:\Users\admin\Desktop\farmadam\App\farmaDAM\farmaDAM\bin\Debug\farmaDAM.pdb
+C:\Users\admin\Desktop\farmadam\App\farmaDAM\farmaDAM\obj\Debug\farmaDAM.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\farmadam\App\farmaDAM\farmaDAM\obj\Debug\farmaDAM.AcercaDe.resources
+C:\Users\admin\Desktop\farmadam\App\farmaDAM\farmaDAM\obj\Debug\farmaDAM.Properties.Resources.resources
+C:\Users\admin\Desktop\farmadam\App\farmaDAM\farmaDAM\obj\Debug\farmaDAM.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\farmadam\App\farmaDAM\farmaDAM\obj\Debug\farmaDAM.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\farmadam\App\farmaDAM\farmaDAM\obj\Debug\farmaDAM.exe
+C:\Users\admin\Desktop\farmadam\App\farmaDAM\farmaDAM\obj\Debug\farmaDAM.pdb
