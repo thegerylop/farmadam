@@ -25,7 +25,7 @@ namespace Splash
             {
                 timer1.Stop();
                 this.Hide();
-                Form frm = new PaginaPrincipal.PaginaPrincipal();
+                Form frm = new Login.Login();
                 frm.Show();
             }
         }
