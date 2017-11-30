@@ -78,11 +78,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\PaginaPrincipal\PaginaPrincipal.csproj">
-      <Project>{53042222-0403-4bc6-b942-fd126c1ab117}</Project>
-      <Name>PaginaPrincipal</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

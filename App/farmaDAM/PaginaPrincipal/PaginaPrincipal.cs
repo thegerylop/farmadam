@@ -16,5 +16,12 @@ namespace PaginaPrincipal
         {
             InitializeComponent();
         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            this.Hide();
+            Form frm = new farmaDAM.AcercaDe();
+            frm.Show();
+        }
     }
 }
